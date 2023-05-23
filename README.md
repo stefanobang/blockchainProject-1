@@ -16,10 +16,10 @@ Only the owner can withdraw the fund
 Currently utilizing test network
 
 <div align="center">
-    <img align="center"  src="https://github.com/stefanobang/stefanobang123/blob/master/otherImg/blockchainprojct1.png" width="500px" alt="welcome-image">
+    <img align="center"  src="https://github.com/stefanobang/stefanobang123/blob/master/otherImg/blockchainprojct1.png" width="800px" alt="welcome-image">
 </div>
 <div align="center">
-    <img align="center"  src="https://github.com/stefanobang/stefanobang123/blob/master/otherImg/blockchainprojct2.png" width="500px" alt="welcome-image">
+    <img align="center"  src="https://github.com/stefanobang/stefanobang123/blob/master/otherImg/blockchainprojct2.png" width="800px" alt="welcome-image">
 </div>
 
 
